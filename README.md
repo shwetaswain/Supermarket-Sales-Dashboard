@@ -37,14 +37,12 @@ To analyze supermarket sales data and derive key insights for improving decision
 - Open it in Power BI Desktop
 - Use slicers to filter by Branch, City, Gender, Product Line
 
----
-
-## 📬 Contact
-**Shweta Ashok Swain**  
-
-
 ## 💡 Result/Impact
 A clean, interactive dashboard that helps identify performance trends across different customer segments and product categories.
 
----
+## 📬 Author
+**Shweta Ashok Swain**  
+
+
+
 
