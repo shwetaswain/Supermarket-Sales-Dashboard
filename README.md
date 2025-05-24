@@ -32,6 +32,17 @@ To analyze supermarket sales data and derive key insights for improving decision
 ## 📂 File
 - `Supermarket_Sales_Dashboard.pbix`: Power BI dashboard file
 
+## 📌 How to Use
+- Download the `.pbix` file from the repo
+- Open it in Power BI Desktop
+- Use slicers to filter by Branch, City, Gender, Product Line
+
+---
+
+## 📬 Contact
+**Shweta Ashok Swain**  
+
+
 ## 💡 Result/Impact
 A clean, interactive dashboard that helps identify performance trends across different customer segments and product categories.
 
