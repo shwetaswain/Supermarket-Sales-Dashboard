@@ -40,8 +40,15 @@ To analyze supermarket sales data and derive key insights for improving decision
 ## 💡 Result/Impact
 A clean, interactive dashboard that helps identify performance trends across different customer segments and product categories.
 
+## Images
+![Screenshot 2025-05-25 005955](https://github.com/user-attachments/assets/42068e48-d1bd-450f-9fc1-96160468ef39)
+
 ## 📬 Author
-**Shweta Ashok Swain**  
+**Shweta Ashok Swain**
+
+🔗 🔗 Connect with Me
+LinkedIn
+📧 shwetaswain01@gmail.com
 
 
 
