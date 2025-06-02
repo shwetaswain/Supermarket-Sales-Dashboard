@@ -46,8 +46,8 @@ A clean, interactive dashboard that helps identify performance trends across dif
 ## 📬 Author
 **Shweta Ashok Swain**
 
-🔗 🔗 Connect with Me
-LinkedIn
+🔗 Connect with Me
+https://www.linkedin.com/in/shweta-swain01/
 📧 shwetaswain01@gmail.com
 
 
